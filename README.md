@@ -97,7 +97,11 @@ This design allows the chatbot to respond dynamically based on stored data and b
 
 ---
 
+## 📄 Documentation
 
+Download the detailed project report:  
+👉 [Chatbot using Amazon Lex and store bot response in DynamoDB.docx](https://github.com/DeepikaSidda/AWS_Lex_Chatbot/raw/main/Chatbot%20using%20Amazon%20Lex%20and%20store%20bot%20response%20in%20DynamoDB.docx)
+---
 
 ## ✅ Conclusion
 
