@@ -15,8 +15,12 @@ This design allows the chatbot to respond dynamically based on stored data and b
 
 ---
 
-## 🧩 AWS Services Used
 
+## 📐 Architecture Diagram
+
+![Chatbot Architecture](images/architecture-diagram.png)
+## 🧩 AWS Services Used
+---
 ### 1. 🗨️ Amazon Lex
 
 **Amazon Lex** is a fully managed AI service used to build conversational interfaces using voice or text. It uses the same machine learning technology as Amazon Alexa.
@@ -93,15 +97,7 @@ This design allows the chatbot to respond dynamically based on stored data and b
 
 ---
 
-## 🚀 Use Case Extensions
 
-You can extend this architecture to:
-- Add **user personalization** using DynamoDB user attributes.
-- Integrate with **external APIs** for live data.
-- Log conversation history for **analytics or training**.
-- Implement authentication with **Amazon Cognito**.
-
----
 
 ## ✅ Conclusion
 
