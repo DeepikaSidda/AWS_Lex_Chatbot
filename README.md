@@ -18,8 +18,8 @@ This design allows the chatbot to respond dynamically based on stored data and b
 
 ## 📐 Architecture Diagram
 
-![Chatbot Architecture](images/ArchitectureDiagram.png)
-## 🧩 AWS Services Used
+![Architecture Diagram](https://github.com/DeepikaSidda/AWS_Lex_Chatbot/blob/main/Images/ArchitectureDiagram.png?raw=true)
+
 ---
 ### 1. 🗨️ Amazon Lex
 
